@@ -6,4 +6,5 @@ node_modules/
 public/
 .deploy*/
 
-source/_posts/
+source/_posts/*.md
+!source/_posts/demo.md
