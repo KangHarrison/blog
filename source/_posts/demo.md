@@ -14,4 +14,6 @@ this blog's summary ~
 
 正文: 使用Markdown语法
 
+TEST
+
 欢迎使用 GitHub + Hexo 搭建博客
