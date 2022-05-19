@@ -6,4 +6,4 @@ node_modules/
 public/
 .deploy*/
 
-_posts/
+source/_posts/
