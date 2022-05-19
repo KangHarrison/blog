@@ -6,4 +6,4 @@ node_modules/
 public/
 .deploy*/
 
-source/
+source/_posts/*.md
