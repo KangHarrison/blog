@@ -9,6 +9,7 @@ tags:
 
 ---
 this blog's summary ~
+Test
 <!-- more -->
 
 正文: 使用Markdown语法
