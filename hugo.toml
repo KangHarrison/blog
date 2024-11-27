@@ -1,4 +1,4 @@
 baseURL = 'https://blog-e80.pages.dev/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+title = 'Harrison blog'
+theme = 'doks'
