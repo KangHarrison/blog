@@ -2,3 +2,10 @@ baseURL = 'https://blog-e80.pages.dev/'
 languageCode = 'en-us'
 title = 'Harrison blog'
 theme = 'FixIt'
+
+[markup]
+  _merge = "shallow"
+[outputs]
+  _merge = "shallow"
+[taxonomies]
+  _merge = "shallow"
